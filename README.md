@@ -16,4 +16,4 @@ To re-render the scene, open the `.blend` file in Blender and press `F12` for im
 
 ## 📽️ Preview
 
-![Pot Render](./renders/pot.png)
+![Pot Render](pot.png)
